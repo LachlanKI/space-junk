@@ -12,6 +12,15 @@
  - **frontend** > HTML, CSS, React, Redux
  - **backend** > Node, Express, PostgreSQL, webpack, babel, csurf, socket.io, bcryptjs
 
+## features_
+- register an account
+- login to account
+- customise profile
+- add and terminate friendships, cancel and reject pending requests
+- see who is currently online, visit their profiles
+- chat in global chatroom
+- live notifications regarding changes in friendship statuses and when an account logs in or out
+
 ## preview gifs_
 (might take a minute to load)
 
