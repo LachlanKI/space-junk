@@ -1,5 +1,5 @@
 # Lachlan Kosaniuk Innes_
-  my [linkedin](https://www.linkedin.com/in/lachlanki/)
+  [linkedin_](https://www.linkedin.com/in/lachlanki/)
 
   This is Space Junk, a social network where every component is drifting through space, rotating and moving.
 
